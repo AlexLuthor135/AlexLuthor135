@@ -13,7 +13,17 @@ I'm a software engineer passionate about developing innovative solutions to occu
 - 🚀 Fast learner.
 
 ### Programming skills:
-![C](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/261fb77a-e67d-4f56-af83-7addeeefee65) ![C(1)](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/b6581b9f-318d-401e-8547-393c3ed8dff3)
+![C language](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/9ac5fb3c-7533-4208-91a2-5fa0dfd1fca1)
+ ![C++2](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/78a196fd-a007-48bc-981b-968b57e69148)
+ ![Python2](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/95e561e4-fd7d-42a6-9c8c-b030c9754d5d) 
+ ![UE](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/4214fde8-a38d-4dff-888f-5b3ba66a0b11) 
+ ![SQL](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/156382e4-f473-4ca1-b228-a0a51a8070e3)
+
+
+
+
+
+
 
 ## Get in Touch
 
