@@ -13,11 +13,12 @@ I'm a software engineer passionate about developing innovative solutions to occu
 - 🚀 Fast learner.
 
 ### Programming skills:
-![C language](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/9ac5fb3c-7533-4208-91a2-5fa0dfd1fca1)
- ![C++2](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/78a196fd-a007-48bc-981b-968b57e69148)
- ![Python2](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/95e561e4-fd7d-42a6-9c8c-b030c9754d5d) 
- ![UE](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/4214fde8-a38d-4dff-888f-5b3ba66a0b11) 
- ![SQL](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/156382e4-f473-4ca1-b228-a0a51a8070e3)
+![C](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/47761db9-90d2-4e18-b89a-3becaef63f27)
+ ![C++](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/caf3f958-ff63-4830-831c-0881ed81b39b)
+ ![Python](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/42774d65-549c-4d19-868c-a6ff3dca2a3f)
+ ![UE](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/5a872ef1-9871-4f3d-9384-bab96050ad6a)
+ ![SQL](https://github.com/AlexLuthor135/AlexLuthor135/assets/134649029/6a6ea807-2bb5-49c8-addb-d77c2a81c660)
+
 
 
 
