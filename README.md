@@ -49,7 +49,7 @@ growth and making a meaningful impact in the tech industry.
     </td>
     <td align="center" width="96">
       <a href="#welcome-to-alexandros-lappas-portfolio" >
-        <img src="https://github.com/user-attachments/assets/bb83a37a-f145-4cf6-af3d-c279bcfb5053" width="48" height="48" alt="React" />
+        <img src="https://github.com/user-attachments/assets/566f441f-5b21-4dda-b865-640691e807d2" width="48" height="43" alt="React" />
       </a>
       <br>React
     </td>
