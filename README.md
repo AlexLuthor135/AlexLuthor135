@@ -73,7 +73,7 @@ growth and making a meaningful impact in the tech industry.
 
 ## Get in Touch
 
-🌐 You can also reach out to me through [LinkedIn](www.linkedin.com/in/alexandros-lappas-18134528b).
+🌐 You can also reach out to me through [LinkedIn](https://www.linkedin.com/in/alexandros-lappas/).
 
 <!---
 AlexLuthor135/AlexLuthor135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
