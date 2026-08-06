@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alexandros Lappas 👋
+# Hi, I'm Alexandros Lappas 😇
 
 ### Software Developer & Pedago Lead · C++ / Game Systems · Python / Django Backend
 
